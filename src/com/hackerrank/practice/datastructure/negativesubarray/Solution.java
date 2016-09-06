@@ -1,4 +1,4 @@
-package com.hackerrank.practice;
+package com.hackerrank.practice.datastructure.negativesubarray;
 
 import java.io.*;
 import java.util.*;
