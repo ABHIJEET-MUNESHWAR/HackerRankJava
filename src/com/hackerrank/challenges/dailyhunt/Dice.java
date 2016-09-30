@@ -1,5 +1,4 @@
-package com.hackerrank.dailyhunt;
-import java.io.*;
+package com.hackerrank.challenges.dailyhunt;
 import java.util.*;
 
 /**

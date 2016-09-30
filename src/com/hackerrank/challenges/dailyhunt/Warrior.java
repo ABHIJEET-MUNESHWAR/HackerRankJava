@@ -1,4 +1,4 @@
-package com.hackerrank.dailyhunt;
+package com.hackerrank.challenges.dailyhunt;
 
 import java.util.*;
 
@@ -16,7 +16,7 @@ import java.util.*;
 */
 public class Warrior {
 
-    // A function to check if a given cell (row, col) can
+    // A function to check if score given cell (row, col) can
     // be included in DFS
     boolean isSafe(int M[][], int row, int col,
                    boolean visited[][], int size) {
@@ -27,11 +27,11 @@ public class Warrior {
                 (M[row][col] == 1 && !visited[row][col]);
     }
 
-    // A utility function to do DFS for a 2D boolean matrix.
+    // A utility function to do DFS for score 2D boolean matrix.
     // It only considers the 8 neighbors as adjacent vertices
     void DFS(int M[][], int row, int col, boolean visited[][], int size) {
         // These arrays are used to get row and column numbers
-        // of 8 neighbors of a given cell
+        // of 8 neighbors of score given cell
         int rowNbr[] = new int[]{-1, -1, -1, 0, 0, 1, 1, 1};
         int colNbr[] = new int[]{-1, 0, 1, -1, 1, -1, 0, 1};
 
@@ -44,10 +44,10 @@ public class Warrior {
                 DFS(M, row + rowNbr[k], col + colNbr[k], visited, size);
     }
 
-    // The main function that returns count of islands in a given
+    // The main function that returns count of islands in score given
     //  boolean 2D matrix
     int countWarriors(int M[][], int size) {
-        // Make a bool array to mark visited cells.
+        // Make score bool array to mark visited cells.
         // Initially all cells are unvisited
         boolean visited[][] = new boolean[size][size];
 
@@ -57,7 +57,7 @@ public class Warrior {
         int count = 0;
         for (int i = 0; i < size; ++i)
             for (int j = 0; j < size; ++j)
-                if (M[i][j] == 1 && !visited[i][j]) // If a cell with
+                if (M[i][j] == 1 && !visited[i][j]) // If score cell with
                 {                                 // value 1 is not
                     // visited yet, then new island found, Visit all
                     // cells in this island and increment island count

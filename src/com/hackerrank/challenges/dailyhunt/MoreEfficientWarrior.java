@@ -1,4 +1,4 @@
-package com.hackerrank.dailyhunt;
+package com.hackerrank.challenges.dailyhunt;
 
 import java.util.Scanner;
 
