@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3ad69109-b90a-4463-bf80-b422c2f17cae" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/con/con.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/demo/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/main/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/maintwo/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/outputone/Constructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/profiletest/ProfileTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/program/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/subsup/Sub.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/test/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testfour/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testone/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testthree/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testtwo/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/thoughtworks/comparestrings/Compare.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/thoughtworks/digitsinnumber/TestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/tomtom/deviation/Deviation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/tomtom/linkedlistlength/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/NuclearRods/NuclearRods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/deletenodes/DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/reformatdates/ReformatDates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    </list>
+    <ignored path="HackerRankJava.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CheckStyle-IDEA-workspace">
+    <option name="configuration">
+      <map>
+        <entry key="last-active-plugin-version" value="5.21.1" />
+      </map>
+    </option>
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1300841590">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="13" />
+          <entry key="java" value="1348" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1348" />
+          <entry key="PLAIN_TEXT" value="13" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="HackerRankJava" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/NuclearRods/NuclearRods.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-556">
+              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/deletenodes/DeleteNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sc.nextInt()</find>
+      <find>start</find>
+      <find>nextLine</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>head</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/strings/stringconstruction/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/strings/richierich/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/strings/yetanotherkmp/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/greedy/gridchallenge/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/greedy/beautifulpairs/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/greedy/jimandorders/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/greedy/markandtoys/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/greedy/permutingtwoarrays/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/greedy/priyankaandtoys/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/greedy/largestpermutation/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/dynamicprogramming/maxsubarray/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/gametheory/gameofstones/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/datastructures/arrays/hourglass/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/datastructures/arrays/dynamicarray/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/hourranktwelve/repeatedstring/Solution.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/weekofcodetwentythree/gearsofwar/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/search/shortpalindrome/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/graphtheory/synchronouseshopping/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/graphtheory/dijkstra/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/algorithms/graphtheory/dijkstra/ShortestPath.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/weekofcodetwentythree/treasurehunting/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/weekofcodetwentythree/lighthouse/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/weekofcodetwentythree/unexpectedproblem/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/linkedin/score/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/linkedin/reputation/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/hackfourtyone/lecturenotes/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/hackfourtyone/ariasloop/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/hackfourtyone/washingplates/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/outputone/Constructor.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/subsup/Sub.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/main/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/subsup/Sub.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/demo/Demo.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/con/con.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testone/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/profiletest/ProfileTest.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testtwo/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testthree/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testfour/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/maintwo/Main.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/program/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/thoughtworks/comparestrings/Compare.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/thoughtworks/digitsinnumber/TestClass.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/tomtom/linkedlistlength/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/tomtom/deviation/Deviation.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/deletenodes/DeleteNode.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/reformatdates/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/reformatdates/ReformatDates.java" />
+        <option value="$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/NuclearRods/NuclearRods.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1280" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CollectionsScala</id>
+          </State>
+          <State>
+            <id>CDI(Contexts and Dependency Injection) issues</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Code style issuesCSS</id>
+          </State>
+          <State>
+            <id>Code style issuesJava</id>
+          </State>
+          <State>
+            <id>Comparing CollectionsScala</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Declaration redundancyJava</id>
+          </State>
+          <State>
+            <id>Dependency issuesJava</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>GeneralScala</id>
+          </State>
+          <State>
+            <id>HTML</id>
+          </State>
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JSP Inspections</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>Java EE issues</id>
+          </State>
+          <State>
+            <id>Java language level migration aidsJava</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>Other CollectionsScala</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Probable bugsCSS</id>
+          </State>
+          <State>
+            <id>Probable bugsJava</id>
+          </State>
+          <State>
+            <id>Properties Files</id>
+          </State>
+          <State>
+            <id>SQL</id>
+          </State>
+          <State>
+            <id>Scala</id>
+          </State>
+          <State>
+            <id>Security issuesJava</id>
+          </State>
+          <State>
+            <id>Threading issuesJava</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>AOP</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="HackerRankJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRankJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRankJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRankJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRankJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRankJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRankJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRankJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="challenges" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRankJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRankJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="vmware" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HackerRankJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HackerRankJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="hackerrank" type="462c0819:PsiDirectoryNode" />
+              <item name="challenges" type="462c0819:PsiDirectoryNode" />
+              <item name="vmware" type="462c0819:PsiDirectoryNode" />
+              <item name="deletenodes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534614620502" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="prop_add_unversioned_files" value="true" />
+    <property name="settings.editor.selected.configurable" value="Template Data Languages" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.hackerrank.challenges.tomtom" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.NuclearRods">
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="Deviation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerrank.challenges.tomtom.deviation.Deviation" />
+      <module name="HackerRankJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerrank.challenges.tomtom.deviation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NuclearRods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerrank.challenges.vmware.NuclearRods.NuclearRods" />
+      <module name="HackerRankJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerrank.challenges.vmware.NuclearRods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReformatDates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerrank.challenges.vmware.reformatdates.ReformatDates" />
+      <module name="HackerRankJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerrank.challenges.vmware.reformatdates.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerrank.challenges.tomtom.linkedlistlength.Solution" />
+      <module name="HackerRankJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerrank.challenges.tomtom.linkedlistlength.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestClass (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.hackerrank.challenges.thoughtworks.digitsinnumber.TestClass" />
+      <module name="HackerRankJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.hackerrank.challenges.thoughtworks.digitsinnumber.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.TestClass (1)" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.Deviation" />
+      <item itemvalue="Application.ReformatDates" />
+      <item itemvalue="Application.NuclearRods" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NuclearRods" />
+        <item itemvalue="Application.ReformatDates" />
+        <item itemvalue="Application.Deviation" />
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.TestClass (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3ad69109-b90a-4463-bf80-b422c2f17cae" name="Default" comment="" />
+      <created>1467743435751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1467743435751</updated>
+      <workItem from="1467743447629" duration="2191000" />
+      <workItem from="1467778087699" duration="895000" />
+      <workItem from="1467822193269" duration="215000" />
+      <workItem from="1467822735085" duration="933000" />
+      <workItem from="1468061723224" duration="655000" />
+      <workItem from="1468066158748" duration="2523000" />
+      <workItem from="1468482428279" duration="15000" />
+      <workItem from="1470483060709" duration="689000" />
+      <workItem from="1470484486212" duration="28000" />
+      <workItem from="1470484571048" duration="645000" />
+      <workItem from="1470485583554" duration="150000" />
+      <workItem from="1470486046816" duration="654000" />
+      <workItem from="1470672402772" duration="25000" />
+      <workItem from="1471378395281" duration="284000" />
+      <workItem from="1471379029439" duration="91000" />
+      <workItem from="1471415207142" duration="307000" />
+      <workItem from="1471431850140" duration="93000" />
+      <workItem from="1471512255056" duration="5307000" />
+      <workItem from="1471522882284" duration="5288000" />
+      <workItem from="1471544705762" duration="781000" />
+      <workItem from="1471545836105" duration="339000" />
+      <workItem from="1471546249576" duration="1831000" />
+      <workItem from="1471713421986" duration="1820000" />
+      <workItem from="1471756531675" duration="2431000" />
+      <workItem from="1471761492482" duration="182000" />
+      <workItem from="1471762574536" duration="10000" />
+      <workItem from="1471774184338" duration="525000" />
+      <workItem from="1471799033237" duration="6489000" />
+      <workItem from="1471890317196" duration="4653000" />
+      <workItem from="1472055883659" duration="2355000" />
+      <workItem from="1472095586268" duration="391000" />
+      <workItem from="1472140508964" duration="1089000" />
+      <workItem from="1472231433651" duration="1776000" />
+      <workItem from="1472281368933" duration="4365000" />
+      <workItem from="1472313260423" duration="219000" />
+      <workItem from="1472383508545" duration="1484000" />
+      <workItem from="1472401921251" duration="2676000" />
+      <workItem from="1472490535267" duration="399000" />
+      <workItem from="1472491305654" duration="6907000" />
+      <workItem from="1472535721202" duration="133000" />
+      <workItem from="1472576148092" duration="2798000" />
+      <workItem from="1472663024153" duration="2369000" />
+      <workItem from="1472745677809" duration="1766000" />
+      <workItem from="1472832061250" duration="612000" />
+      <workItem from="1472835083548" duration="6940000" />
+      <workItem from="1472898260089" duration="2957000" />
+      <workItem from="1472920667225" duration="9077000" />
+      <workItem from="1472980626357" duration="840000" />
+      <workItem from="1472982166703" duration="19766000" />
+      <workItem from="1473183615917" duration="1211000" />
+      <workItem from="1473263018406" duration="158000" />
+      <workItem from="1473263301618" duration="1379000" />
+      <workItem from="1473403694965" duration="177000" />
+      <workItem from="1473486567468" duration="8000" />
+      <workItem from="1473615215970" duration="384000" />
+      <workItem from="1473656536551" duration="49000" />
+      <workItem from="1473663512198" duration="408000" />
+      <workItem from="1473695587393" duration="114000" />
+      <workItem from="1473696037903" duration="4886000" />
+      <workItem from="1473751894030" duration="3347000" />
+      <workItem from="1473791789679" duration="3715000" />
+      <workItem from="1473835631951" duration="22000" />
+      <workItem from="1473870658660" duration="2637000" />
+      <workItem from="1473958729531" duration="1363000" />
+      <workItem from="1473993751179" duration="469000" />
+      <workItem from="1474178050971" duration="34000" />
+      <workItem from="1474197194571" duration="739000" />
+      <workItem from="1474217305139" duration="2795000" />
+      <workItem from="1474273229188" duration="6000" />
+      <workItem from="1474302664766" duration="313000" />
+      <workItem from="1474303621155" duration="31000" />
+      <workItem from="1474388841644" duration="99000" />
+      <workItem from="1474388991462" duration="5103000" />
+      <workItem from="1474424683034" duration="627000" />
+      <workItem from="1518344570261" duration="315000" />
+      <workItem from="1518349093902" duration="780000" />
+      <workItem from="1518349941108" duration="644000" />
+      <workItem from="1523182403796" duration="169000" />
+      <workItem from="1523261398292" duration="15000" />
+      <workItem from="1524990922820" duration="2135000" />
+      <workItem from="1525626896057" duration="2448000" />
+      <workItem from="1525684333434" duration="6000" />
+      <workItem from="1526797765924" duration="92000" />
+      <workItem from="1532167537515" duration="1000000" />
+      <workItem from="1534604853369" duration="6570000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="153216000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2180937" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Palette&#9;" order="6" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32876712" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49653122" weight="0.26438355" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49315068" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32739726" />
+      <window_info anchor="bottom" id="CheckStyle" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50346875" side_tool="true" weight="0.3849315" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.19862069" />
+      <window_info anchor="bottom" id="Tail" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Designer" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18497577" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Palette&#9;" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33835617" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.53424656" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.32876712" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.329235" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Designer" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/practice/datastructure/negativesubarray/Solution.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/practice/datastructure/onedarray/Solution.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/practice/datastructure/stack/Solution.java</url>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/algorithms/implementation/nondivisiblesubset/Solution.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/algorithms/implementation/strangecounter/Solution.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/toptal/task1/Solution.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/toptal/task1/Solution.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/toptal/task1/Solution.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/cliquetwo/meghana/Solution.java</url>
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/hackerearth/specialnumbers/TestClass.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/worldcodesprintsix/flipingmatrix/Solution.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/worldcodesprintsix/flipingmatrix/Solution.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/algorithms/implementation/jumpingontheclouds/Solution.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/algorithms/implementation/flatlandspacestation/Solution.java</url>
+          <properties />
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/algorithms/implementation/flatlandspacestation/Solution.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/algorithms/implementation/minimumdistances/Solution.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/algorithms/implementation/absolutepermutation/Solution.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/algorithms/strings/yetanotherkmp/Solution.java</url>
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/algorithms/greedy/largestpermutation/Solution.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/algorithms/dynamicprogramming/maxsubarray/Solution.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/algorithms/implementation/bomberman/Solution.java</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/algorithms/search/shortpalindrome/Solution.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/weekofcodetwentythree/lighthouse/Solution.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="69" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/linkedin/score/Solution.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/hackfourtyone/ariasloop/Solution.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/hackfourtyone/washingplates/Solution.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="75" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/thoughtworks/comparestrings/Compare.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/thoughtworks/comparestrings/Compare.java</url>
+          <line>31</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/tomtom/linkedlistlength/Solution.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/reformatdates/ReformatDates.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/NuclearRods/NuclearRods.java</url>
+          <line>95</line>
+          <properties />
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateCodeFragment">
+      <expression>
+        <expression-string>formattedStrings.toArray().toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>formattedStrings.toArray()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_25.jdk/Contents/Home/src.zip!/java/util/Arrays.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/algorithms/greedy/jimandorders/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/algorithms/greedy/markandtoys/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/algorithms/greedy/largestpermutation/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/algorithms/greedy/priyankaandtoys/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/algorithms/greedy/permutingtwoarrays/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="36" column="20" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/algorithms/gametheory/gameofstones/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/datastructures/arrays/dynamicarray/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="28" column="50" selection-start-line="28" selection-start-column="50" selection-end-line="28" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/hourranktwelve/repeatedstring/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/dailyhunt/MoreEfficientWarrior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/algorithms/implementation/bomberman/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="121" selection-start-line="121" selection-end-line="121" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/algorithms/search/shortpalindrome/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/weekofcodetwentythree/treasurehunting/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/weekofcodetwentythree/lighthouse/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/weekofcodetwentythree/gearsofwar/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="23" column="1" selection-start-line="5" selection-end-line="23" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/weekofcodetwentythree/unexpectedproblem/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/algorithms/strings/stringconstruction/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/linkedin/reputation/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/linkedin/score/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="37" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/hackfourtyone/lecturenotes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="18" column="29" selection-start-line="17" selection-start-column="8" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/hackfourtyone/ariasloop/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" column="39" selection-start-line="19" selection-start-column="39" selection-end-line="19" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/hackfourtyone/washingplates/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/algorithms/dynamicprogramming/maxsubarray/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="21" column="5" selection-start-line="20" selection-start-column="24" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="25" column="68" selection-start-line="25" selection-start-column="68" selection-end-line="25" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.project" />
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/algorithms/graphtheory/dijkstra/ShortestPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="44" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/algorithms/graphtheory/synchronouseshopping/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="12" column="36" selection-start-line="12" selection-start-column="36" selection-end-line="12" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/outputone/Constructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/subsup/Sub.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/main/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/demo/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/con/con.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/profiletest/ProfileTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/test/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testone/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testtwo/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testthree/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testfour/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/maintwo/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_131.jdk/Contents/Home/src.zip!/java/lang/System.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/practice/datastructure/onedarray/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/program/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/thoughtworks/comparestrings/Compare.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/thoughtworks/digitsinnumber/TestClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/tomtom/deviation/Deviation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/tomtom/linkedlistlength/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="5" selection-start-line="28" selection-start-column="5" selection-end-line="28" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/dailyhunt/Dice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="9" column="48" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/reformatdates/ReformatDates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="25" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/NuclearRods/NuclearRods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-556">
+          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/deletenodes/DeleteNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>HackerRankJava</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
