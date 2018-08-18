@@ -9,6 +9,7 @@ import java.util.*;
  * Time:    9:59 PM
  * https://www.careercup.com/question?id=5721734273564672
  * https://github.com/CICISUN/LeetCode/blob/master/HackerRank/NuclearRods.java
+ * Find minimal cost. cost = sqrt of set size.
 Input
  8
  4

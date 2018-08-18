@@ -2,27 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ad69109-b90a-4463-bf80-b422c2f17cae" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/con/con.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/demo/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/main/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/maintwo/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/outputone/Constructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/profiletest/ProfileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/program/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/subsup/Sub.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/test/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testfour/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testone/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testthree/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/barclays/mcq/testtwo/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/thoughtworks/comparestrings/Compare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/thoughtworks/digitsinnumber/TestClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/tomtom/deviation/Deviation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/tomtom/linkedlistlength/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/NuclearRods/NuclearRods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/deletenodes/DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/reformatdates/ReformatDates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/NuclearRods/NuclearRods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/NuclearRods/NuclearRods.java" afterDir="false" />
     </list>
     <ignored path="HackerRankJava.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -65,12 +45,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="13" />
-          <entry key="java" value="1348" />
+          <entry key="java" value="1394" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1348" />
+          <entry key="JAVA" value="1394" />
           <entry key="PLAIN_TEXT" value="13" />
         </counts>
       </usages-collector>
@@ -81,16 +61,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/NuclearRods/NuclearRods.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-556">
-              <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
+            <state relative-caret-position="187">
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/deletenodes/DeleteNode.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="37">
@@ -363,7 +343,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534614620502" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1534614961920" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -602,12 +582,12 @@
       <workItem from="1525684333434" duration="6000" />
       <workItem from="1526797765924" duration="92000" />
       <workItem from="1532167537515" duration="1000000" />
-      <workItem from="1534604853369" duration="6570000" />
+      <workItem from="1534604853369" duration="6631000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="153216000" />
+    <option name="totallyTimeSpent" value="153277000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -870,7 +850,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/NuclearRods/NuclearRods.java</url>
-          <line>95</line>
+          <line>96</line>
           <properties />
           <option name="timeStamp" value="105" />
         </line-breakpoint>
@@ -1233,17 +1213,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/NuclearRods/NuclearRods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-556">
-          <caret line="19" column="2" selection-start-line="19" selection-start-column="2" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/deletenodes/DeleteNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="37">
           <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/hackerrank/challenges/vmware/NuclearRods/NuclearRods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
         </state>
       </provider>
     </entry>
