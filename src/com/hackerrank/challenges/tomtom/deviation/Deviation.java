@@ -12,6 +12,7 @@ public class Deviation {
     public static void main(String[] args) {
         Deviation deviation = new Deviation();
         int[] input = {9, 4, -3, -10};
+        int[] arr = new int[5];
         System.out.println(deviation.findMaxDeviation(input));
     }
 
