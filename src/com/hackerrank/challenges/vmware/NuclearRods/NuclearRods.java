@@ -11,14 +11,14 @@ import java.util.*;
  * https://github.com/CICISUN/LeetCode/blob/master/HackerRank/NuclearRods.java
  * Find minimal cost. cost = sqrt of set size.
 Input
- 8
- 4
- 8 1
- 5 8
- 7 3
- 8 6
+8
+4
+8 1
+5 8
+7 3
+8 6
 Output:
- 6
+6
  */
 public class NuclearRods {
     public static void main(String[] args) {
